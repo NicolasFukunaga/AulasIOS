@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: black;
+    background-color: black;
+}
+
+header{
+    background-color: aqua;
+    font-style: italic;
+    margin: 15px;
+}
+nav{
+    display: flex;
+}
+
+ul{
+    text-align: center;
+    align-items: center;
+    display: flex;
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
